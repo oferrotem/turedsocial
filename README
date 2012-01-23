@@ -14,6 +14,8 @@ In order for the FB part to work you'll need to configure the FB values in the j
 and you'll need to configure your domain to work. I trick I use is modify the Hosts file
 to point to localhost when called the domain value from your FB app.
 
+Refer to http://developers.facebook.com/docs/chat/ for FB SDK questions.
+
 Cheers!
  
 
