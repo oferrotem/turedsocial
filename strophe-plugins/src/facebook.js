@@ -105,7 +105,7 @@ Strophe.Connection.prototype._sasl_challenge1_fb = function (elem)
         responseText += '&call_id=' + (Math.floor(new Date().getTime()/1000));
         responseText += '&method=' + method;
         responseText += '&nonce=' + nonce;
-        responseText += '&session_key=' + this.sessionKey;
+        responseText += '&access_token=' + this.sessionKey;
         responseText += '&v=' + '1.0';
         responseText += '&sig=' + MD5.hexdigest(responseText.replace(/&/g,"")+this.secretKey);
         
@@ -282,8 +282,8 @@ Strophe.Connection.prototype.facebookConnect = function (jid, callback, wait, ho
 
     this._requests.push(
         new Strophe.Request(body.tree(),
-                            this._onRequestStateChange.bind(this)
-                                .prependArg(this._connect_fb.bind(this)),
-                            body.tree().getAttribute("rid")));
+                            this._onRequestStateChange.bind(
+                            this, this._connect_fb.bind(this)),
+                             body.tree().getAttribute("rid")));
     this._throttledRequestHandler();
 };
