@@ -1,0 +1,117 @@
+2013-08-04 16:36:27+0300 [-] Log opened.
+2013-08-04 16:36:27+0300 [-] twistd 13.1.0 (/usr/bin/python 2.7.4) starting up.
+2013-08-04 16:36:27+0300 [-] reactor class: twisted.internet.epollreactor.EPollReactor.
+2013-08-04 16:36:27+0300 [-] Site starting on 5280
+2013-08-04 16:36:27+0300 [-] Starting factory <twisted.web.server.Site instance at 0x1da0f38>
+2013-08-04 16:36:32+0300 [HTTPChannel,0,127.0.0.1] 127.0.0.1 - - [04/Aug/2013:13:36:31 +0000] "GET /xmpp-httpbind HTTP/1.1" 404 145 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:36:32+0300 [HTTPChannel,0,127.0.0.1] 127.0.0.1 - - [04/Aug/2013:13:36:31 +0000] "GET /favicon.ico HTTP/1.1" 404 145 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:36:32+0300 [HTTPChannel,0,127.0.0.1] 127.0.0.1 - - [04/Aug/2013:13:36:31 +0000] "GET /favicon.ico HTTP/1.1" 404 145 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:40:22+0300 [HTTPChannel,1,127.0.0.1] 127.0.0.1 - - [04/Aug/2013:13:40:22 +0000] "POST /xmpp-httpbind HTTP/1.1" 404 145 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:40:22+0300 [HTTPChannel,1,127.0.0.1] 127.0.0.1 - - [04/Aug/2013:13:40:22 +0000] "POST /xmpp-httpbind HTTP/1.1" 404 145 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:40:30+0300 [HTTPChannel,1,127.0.0.1] 127.0.0.1 - - [04/Aug/2013:13:40:30 +0000] "POST /xmpp-httpbind HTTP/1.1" 404 145 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:40:57+0300 [HTTPChannel,1,127.0.0.1] 127.0.0.1 - - [04/Aug/2013:13:40:57 +0000] "POST /xmpp-httpbind HTTP/1.1" 404 145 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:42:01+0300 [HTTPChannel,1,127.0.0.1] 127.0.0.1 - - [04/Aug/2013:13:42:01 +0000] "POST /xmpp-httpbind HTTP/1.1" 404 145 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:46:05+0300 [-] Received SIGTERM, shutting down.
+2013-08-04 16:46:05+0300 [-] (TCP Port 5280 Closed)
+2013-08-04 16:46:05+0300 [-] Stopping factory <twisted.web.server.Site instance at 0x1da0f38>
+2013-08-04 16:46:05+0300 [-] Main loop terminated.
+2013-08-04 16:46:05+0300 [-] Server Shut Down.
+2013-08-04 16:46:09+0300 [-] Log opened.
+2013-08-04 16:46:09+0300 [-] twistd 13.1.0 (/usr/bin/python 2.7.4) starting up.
+2013-08-04 16:46:09+0300 [-] reactor class: twisted.internet.epollreactor.EPollReactor.
+2013-08-04 16:46:09+0300 [-] Site starting on 5280
+2013-08-04 16:46:09+0300 [-] Starting factory <twisted.web.server.Site instance at 0x2952f38>
+2013-08-04 16:46:24+0300 [HTTPChannel,0,127.0.0.1] 127.0.0.1 - - [04/Aug/2013:13:46:23 +0000] "GET /xmpp-httpbind HTTP/1.1" 404 145 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:46:25+0300 [HTTPChannel,0,127.0.0.1] 127.0.0.1 - - [04/Aug/2013:13:46:24 +0000] "GET /xmpp-httpbind HTTP/1.1" 404 145 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:47:35+0300 [-] Received SIGTERM, shutting down.
+2013-08-04 16:47:35+0300 [-] (TCP Port 5280 Closed)
+2013-08-04 16:47:35+0300 [-] Stopping factory <twisted.web.server.Site instance at 0x2952f38>
+2013-08-04 16:47:35+0300 [-] Main loop terminated.
+2013-08-04 16:47:35+0300 [-] Server Shut Down.
+2013-08-04 16:47:39+0300 [-] Log opened.
+2013-08-04 16:47:39+0300 [-] twistd 13.1.0 (/usr/bin/python 2.7.4) starting up.
+2013-08-04 16:47:39+0300 [-] reactor class: twisted.internet.epollreactor.EPollReactor.
+2013-08-04 16:47:39+0300 [-] Site starting on 5280
+2013-08-04 16:47:39+0300 [-] Starting factory <twisted.web.server.Site instance at 0x34dcf38>
+2013-08-04 16:47:44+0300 [HTTPChannel,0,127.0.0.1] 127.0.0.1 - - [04/Aug/2013:13:47:44 +0000] "GET /xmpp-httpbind HTTP/1.1" 404 145 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:48:11+0300 [HTTPChannel,0,127.0.0.1] 127.0.0.1 - - [04/Aug/2013:13:48:11 +0000] "GET /http-bind HTTP/1.1" 200 170 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:48:55+0300 [HTTPChannel,1,127.0.0.1] /usr/local/lib/python2.7/dist-packages/punjab-0.15-py2.7.egg/punjab/session.py:85: exceptions.UserWarning: Domain argument to XMPPClientConnector should be bytes, not unicode
+2013-08-04 16:48:55+0300 [HTTPChannel,1,127.0.0.1] /etc/resolv.conf changed, reparsing
+2013-08-04 16:48:55+0300 [HTTPChannel,1,127.0.0.1] Resolver added ('127.0.1.1', 53) to server list
+2013-08-04 16:48:55+0300 [HTTPChannel,1,127.0.0.1] DNSDatagramProtocol starting on 58243
+2013-08-04 16:48:55+0300 [HTTPChannel,1,127.0.0.1] Starting protocol <twisted.names.dns.DNSDatagramProtocol object at 0x35340d0>
+2013-08-04 16:48:55+0300 [-] (UDP Port 58243 Closed)
+2013-08-04 16:48:55+0300 [-] Stopping protocol <twisted.names.dns.DNSDatagramProtocol object at 0x35340d0>
+2013-08-04 16:48:59+0300 [-] DNSDatagramProtocol starting on 45602
+2013-08-04 16:48:59+0300 [-] Starting protocol <twisted.names.dns.DNSDatagramProtocol object at 0x3534e50>
+2013-08-04 16:48:59+0300 [-] (UDP Port 45602 Closed)
+2013-08-04 16:48:59+0300 [-] Stopping protocol <twisted.names.dns.DNSDatagramProtocol object at 0x3534e50>
+2013-08-04 16:49:06+0300 [-] DNSDatagramProtocol starting on 32155
+2013-08-04 16:49:06+0300 [-] Starting protocol <twisted.names.dns.DNSDatagramProtocol object at 0x3534ed0>
+2013-08-04 16:49:07+0300 [-] (UDP Port 32155 Closed)
+2013-08-04 16:49:07+0300 [-] Stopping protocol <twisted.names.dns.DNSDatagramProtocol object at 0x3534ed0>
+2013-08-04 16:49:24+0300 [-] 127.0.0.1 - - [04/Aug/2013:13:49:23 +0000] "POST /http-bind HTTP/1.1" 200 105 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:51:43+0300 [-] Received SIGTERM, shutting down.
+2013-08-04 16:51:43+0300 [-] (TCP Port 5280 Closed)
+2013-08-04 16:51:43+0300 [-] Stopping factory <twisted.web.server.Site instance at 0x34dcf38>
+2013-08-04 16:51:43+0300 [-] Main loop terminated.
+2013-08-04 16:51:43+0300 [-] Server Shut Down.
+2013-08-04 16:51:49+0300 [-] Log opened.
+2013-08-04 16:51:49+0300 [-] twistd 13.1.0 (/usr/bin/python 2.7.4) starting up.
+2013-08-04 16:51:49+0300 [-] reactor class: twisted.internet.epollreactor.EPollReactor.
+2013-08-04 16:51:49+0300 [-] Site starting on 5280
+2013-08-04 16:51:49+0300 [-] Starting factory <twisted.web.server.Site instance at 0x30d5e18>
+2013-08-04 16:52:09+0300 [HTTPChannel,0,127.0.0.1] /usr/local/lib/python2.7/dist-packages/punjab-0.15-py2.7.egg/punjab/session.py:85: exceptions.UserWarning: Domain argument to XMPPClientConnector should be bytes, not unicode
+2013-08-04 16:52:09+0300 [HTTPChannel,0,127.0.0.1] /etc/resolv.conf changed, reparsing
+2013-08-04 16:52:09+0300 [HTTPChannel,0,127.0.0.1] Resolver added ('127.0.1.1', 53) to server list
+2013-08-04 16:52:09+0300 [HTTPChannel,0,127.0.0.1] DNSDatagramProtocol starting on 13895
+2013-08-04 16:52:09+0300 [HTTPChannel,0,127.0.0.1] Starting protocol <twisted.names.dns.DNSDatagramProtocol object at 0x3129a50>
+2013-08-04 16:52:09+0300 [-] (UDP Port 13895 Closed)
+2013-08-04 16:52:09+0300 [-] Stopping protocol <twisted.names.dns.DNSDatagramProtocol object at 0x3129a50>
+2013-08-04 16:52:12+0300 [-] DNSDatagramProtocol starting on 47239
+2013-08-04 16:52:12+0300 [-] Starting protocol <twisted.names.dns.DNSDatagramProtocol object at 0x3133950>
+2013-08-04 16:52:12+0300 [-] (UDP Port 47239 Closed)
+2013-08-04 16:52:12+0300 [-] Stopping protocol <twisted.names.dns.DNSDatagramProtocol object at 0x3133950>
+2013-08-04 16:52:20+0300 [-] DNSDatagramProtocol starting on 34477
+2013-08-04 16:52:20+0300 [-] Starting protocol <twisted.names.dns.DNSDatagramProtocol object at 0x3133950>
+2013-08-04 16:52:20+0300 [-] (UDP Port 34477 Closed)
+2013-08-04 16:52:20+0300 [-] Stopping protocol <twisted.names.dns.DNSDatagramProtocol object at 0x3133950>
+2013-08-04 16:52:37+0300 [-] 127.0.0.1 - - [04/Aug/2013:13:52:36 +0000] "POST /http-bind HTTP/1.1" 200 105 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:55:29+0300 [HTTPChannel,1,127.0.0.1] DNSDatagramProtocol starting on 18995
+2013-08-04 16:55:29+0300 [HTTPChannel,1,127.0.0.1] Starting protocol <twisted.names.dns.DNSDatagramProtocol object at 0x31338d0>
+2013-08-04 16:55:29+0300 [-] (UDP Port 18995 Closed)
+2013-08-04 16:55:29+0300 [-] Stopping protocol <twisted.names.dns.DNSDatagramProtocol object at 0x31338d0>
+2013-08-04 16:55:30+0300 [XmlStream,client] 127.0.0.1 - - [04/Aug/2013:13:55:30 +0000] "POST /http-bind HTTP/1.1" 200 480 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:55:30+0300 [XmlStream,client] 127.0.0.1 - - [04/Aug/2013:13:55:30 +0000] "POST /http-bind HTTP/1.1" 200 217 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:55:31+0300 [XmlStream,client] 127.0.0.1 - - [04/Aug/2013:13:55:31 +0000] "POST /http-bind HTTP/1.1" 200 108 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:55:31+0300 [XmlStream,client] 127.0.0.1 - - [04/Aug/2013:13:55:31 +0000] "POST /http-bind HTTP/1.1" 200 264 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:55:31+0300 [XmlStream,client] 127.0.0.1 - - [04/Aug/2013:13:55:31 +0000] "POST /http-bind HTTP/1.1" 200 236 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:55:33+0300 [XmlStream,client] 127.0.0.1 - - [04/Aug/2013:13:55:33 +0000] "POST /http-bind HTTP/1.1" 200 177 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:55:33+0300 [HTTPChannel,1,127.0.0.1] 127.0.0.1 - - [04/Aug/2013:13:55:33 +0000] "POST /http-bind HTTP/1.1" 200 68 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:56:11+0300 [HTTPChannel,1,127.0.0.1] DNSDatagramProtocol starting on 46555
+2013-08-04 16:56:11+0300 [HTTPChannel,1,127.0.0.1] Starting protocol <twisted.names.dns.DNSDatagramProtocol object at 0x31464d0>
+2013-08-04 16:56:11+0300 [-] (UDP Port 46555 Closed)
+2013-08-04 16:56:11+0300 [-] Stopping protocol <twisted.names.dns.DNSDatagramProtocol object at 0x31464d0>
+2013-08-04 16:56:12+0300 [XmlStream,client] 127.0.0.1 - - [04/Aug/2013:13:56:12 +0000] "POST /http-bind HTTP/1.1" 200 480 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:56:12+0300 [XmlStream,client] 127.0.0.1 - - [04/Aug/2013:13:56:12 +0000] "POST /http-bind HTTP/1.1" 200 217 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:56:13+0300 [XmlStream,client] 127.0.0.1 - - [04/Aug/2013:13:56:12 +0000] "POST /http-bind HTTP/1.1" 200 108 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:56:13+0300 [XmlStream,client] 127.0.0.1 - - [04/Aug/2013:13:56:13 +0000] "POST /http-bind HTTP/1.1" 200 264 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:56:13+0300 [XmlStream,client] 127.0.0.1 - - [04/Aug/2013:13:56:13 +0000] "POST /http-bind HTTP/1.1" 200 236 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:56:16+0300 [XmlStream,client] 127.0.0.1 - - [04/Aug/2013:13:56:16 +0000] "POST /http-bind HTTP/1.1" 200 177 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:56:16+0300 [HTTPChannel,1,127.0.0.1] 127.0.0.1 - - [04/Aug/2013:13:56:16 +0000] "POST /http-bind HTTP/1.1" 200 68 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:58:29+0300 [HTTPChannel,2,127.0.0.1] DNSDatagramProtocol starting on 21673
+2013-08-04 16:58:29+0300 [HTTPChannel,2,127.0.0.1] Starting protocol <twisted.names.dns.DNSDatagramProtocol object at 0x3146e50>
+2013-08-04 16:58:29+0300 [-] (UDP Port 21673 Closed)
+2013-08-04 16:58:29+0300 [-] Stopping protocol <twisted.names.dns.DNSDatagramProtocol object at 0x3146e50>
+2013-08-04 16:58:30+0300 [XmlStream,client] 127.0.0.1 - - [04/Aug/2013:13:58:30 +0000] "POST /http-bind HTTP/1.1" 200 480 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:58:30+0300 [XmlStream,client] 127.0.0.1 - - [04/Aug/2013:13:58:30 +0000] "POST /http-bind HTTP/1.1" 200 217 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:58:31+0300 [XmlStream,client] 127.0.0.1 - - [04/Aug/2013:13:58:30 +0000] "POST /http-bind HTTP/1.1" 200 108 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:58:31+0300 [XmlStream,client] 127.0.0.1 - - [04/Aug/2013:13:58:31 +0000] "POST /http-bind HTTP/1.1" 200 264 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:58:31+0300 [XmlStream,client] 127.0.0.1 - - [04/Aug/2013:13:58:31 +0000] "POST /http-bind HTTP/1.1" 200 236 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:58:33+0300 [XmlStream,client] 127.0.0.1 - - [04/Aug/2013:13:58:33 +0000] "POST /http-bind HTTP/1.1" 200 177 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 16:58:33+0300 [HTTPChannel,2,127.0.0.1] 127.0.0.1 - - [04/Aug/2013:13:58:33 +0000] "POST /http-bind HTTP/1.1" 200 68 "http://dev.amigobar.com:8000/facebook.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0"
+2013-08-04 18:13:07+0300 [-] Received SIGTERM, shutting down.
+2013-08-04 18:13:07+0300 [-] (TCP Port 5280 Closed)
+2013-08-04 18:13:07+0300 [-] Stopping factory <twisted.web.server.Site instance at 0x30d5e18>
+2013-08-04 18:13:07+0300 [-] Main loop terminated.
+2013-08-04 18:13:07+0300 [-] Server Shut Down.
