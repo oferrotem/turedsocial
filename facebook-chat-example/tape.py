@@ -12,7 +12,7 @@ from twisted.application import internet
 from twisted.internet import reactor
 from twisted.python import log
 from twisted.web import server, static, proxy
-from twisted.web.error import NoResource
+#from twisted.web.error import NoResource
 from twisted.web.util import redirectTo
 
 
