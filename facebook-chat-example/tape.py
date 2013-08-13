@@ -174,6 +174,10 @@ def main():
     print_banner(config)
 
     # start it up
+    print "Content-Type: text/turtle"
+    print "Content-Location: mydata.ttl"
+    print "Access-Control-Allow-Origin: *"
+    print
     site = TapeSite(TapeResource(config))
     service = internet.TCPServer(int(config.get('server', 'port')), site)
     service.startService()
