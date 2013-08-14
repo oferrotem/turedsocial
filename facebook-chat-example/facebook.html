@@ -40,8 +40,8 @@ function onConnect(status)
 	$('#connect').get(0).value = 'connect';
     } else if (status == Strophe.Status.CONNECTED) {
 	log('Strophe is connected.');
-//        connection.send('<message from="-100005619041496@chat.facebook.com" to="-515907717@chat.facebook.com"><body>message body</body></message>');
-        sendMessage('testing 1-2-3', 'oferrotem@chat.facebook.com');
+//        connection.send('');
+
 	//connection.disconnect();
     }
 }
@@ -115,7 +115,7 @@ $(document).ready(function () {
 					'124885527718055' , /*app id 345255002170399*/
 					'8f16f4c058a587c9f28511e332618de1',/*secret key 098f4361f4d30f6c0e658b1a6d98319d*/
 					access_token);
-                 //new Strophe.Connection.send('<message from="-100005619041496@chat.facebook.com" to="-515907717@chat.facebook.com"><body>message body</body></message>');
+                 //new Strophe.Connection.send('');
                  
                 
 	} else {
