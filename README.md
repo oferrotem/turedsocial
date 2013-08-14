@@ -39,8 +39,9 @@ Installing: https://github.com/oferrotem/turedsocial
     2. Run “sudo service nginx reload” or “sudo service nginx start” to include the latest change in vhosts.  
 4. Getting the code: run “git clone https://github.com/oferrotem/turedsocial.git”.  
     1. In dir “turedsocial/facebook-chat-example/” edit the javascript in the facebook_strophe.html file to have your “app id”, “secret key” and “BOSH_SERVICE” (lines 121, 151, 152, 10).  
-    2. In your browser, go to “http://dev.amigobar.com/facebook_strophe.html”, enter your JID (example: your.name@chat.facebook.com) and facebook password, then click on “connect”.  
-    3. To send a message, enter in the “to” field your friend’s UID, the format is a minus, “-”, sign followed by the friend’s Facebook ID number, followed by  “@chat.facebook.com”. For example: “-65482519@chat.facebook.com”.  
+    2. Then run “**sudo twistd punjab**” in the “turedsocial/facebook-chat-example/” dir (note: to cancel its run do “kill `cat twistd.pid`” in the same dir it’s running from, or "sudo kill " followed by the PID number).
+    3. In your browser, go to “http://dev.amigobar.com/facebook_strophe.html”, enter your JID (example: your.name@chat.facebook.com) and facebook password, then click on “connect”.  
+    4. To send a message, enter in the “to” field your friend’s UID, the format is a minus, “-”, sign followed by the friend’s Facebook ID number, followed by  “@chat.facebook.com”. For example: “-65482519@chat.facebook.com”.  
 
 -----------------------------------------------------------------------------
 Credits:
