@@ -43,7 +43,7 @@ Installing: https://github.com/oferrotem/turedsocial
     3. To send a message, enter in the “to” field your friend’s UID, the format is a minus, “-”, sign followed by the friend’s Facebook ID number, followed by  “@chat.facebook.com”. For example: “-65482519@chat.facebook.com”.  
 
 -----------------------------------------------------------------------------
-Credits:  
+Credits:
 ---------
 1. Forked from https://github.com/javierfigueroa/turedsocial
 2. Which was originally forked from https://github.com/kissrobber/turedsocial
