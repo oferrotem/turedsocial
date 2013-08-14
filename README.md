@@ -49,4 +49,4 @@ Credits:
 2. Which was originally forked from https://github.com/kissrobber/turedsocial
 3. Nginx: https://gist.github.com/makoto/272956  
 4. New facebook-strophe.html: https://gist.github.com/RudyLu/5641350  
-5. Special thanks to [Gilad Dayagi](https://github.com/giladaya)  
+5. **Special thanks to [Gilad Dayagi](https://github.com/giladaya)**  
