@@ -6,9 +6,9 @@ Installing: https://github.com/oferrotem/turedsocial
 
 1. You need to install “punjab” and it has the following dependencies:  
     1. Python >= 2.6.  
-        i. Type “python --version” in the command line to see if you’ve got it.  
+        1. Type “python --version” in the command line to see if you’ve got it.  
     2. Twisted >= 11.1 http://twistedmatrix.com/  
-        i. Type “twistd --version” in the command line to see if you’ve got it.  
+        1. Type “twistd --version” in the command line to see if you’ve got it.  
     3. pyopenssl - if you want tls to work.  
         1. Get the pip installer: “sudo apt-get install python-pip”  
         2. Install: “pip install pyopenssl”  
