@@ -1,6 +1,3 @@
-Forked from https://github.com/kissrobber/turedsocial
-______________________________________________________
-
 Installing: https://github.com/oferrotem/turedsocial
 =====================================================
 
@@ -45,9 +42,11 @@ Installing: https://github.com/oferrotem/turedsocial
     2. In your browser, go to “http://dev.amigobar.com/facebook_strophe.html”, enter your JID (Mine is ofer.goldbar@chat.facebook.com) and facebook password, then click on “connect”.  
     3. To send a message, enter in the “to” field your friend’s UID, the format is a minus, “-”, sign followed by the friend’s Facebook ID number, followed by  “@chat.facebook.com”. For example: “-65482519@chat.facebook.com”.  
 
-=====================================================================
+-----------------------------------------------------------------------------
 Credits:  
-1. https://github.com/javierfigueroa/turedsocial  
-2. Nginx: https://gist.github.com/makoto/272956  
-3. New facebook-strophe.html: https://gist.github.com/RudyLu/5641350  
-4. Special thanks to [Gilad Dayagi](https://github.com/giladaya)  
+---------
+1. Forked from https://github.com/javierfigueroa/turedsocial
+2. Which was originally forked from https://github.com/kissrobber/turedsocial
+3. Nginx: https://gist.github.com/makoto/272956  
+4. New facebook-strophe.html: https://gist.github.com/RudyLu/5641350  
+5. Special thanks to [Gilad Dayagi](https://github.com/giladaya)  
